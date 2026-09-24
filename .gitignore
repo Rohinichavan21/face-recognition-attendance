@@ -1,0 +1,6 @@
+venv/
+venv312/
+__pycache__/
+known_faces/
+attendance.csv
+admin_password.txt
